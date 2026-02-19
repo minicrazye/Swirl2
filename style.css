@@ -1,0 +1,17 @@
+*{
+    color: lightskyblue;
+    background-color: mediumpurple;
+    font-family: "Montserrat", sans-serif;
+}
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 16px;
+}
+p{
+    font-weight: 400;
+}
+a:hover{
+    color: orange;
+}
